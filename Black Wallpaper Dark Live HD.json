@@ -5,15 +5,11 @@
       "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-7615880214648928/6261398192",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/4948316521",
-      "main_ads_natives":"",
-      "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_app_ads":"",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -1681,6 +1677,62 @@
       "wallpaper_name": "QBG235",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/564x/95/bf/29/95bf29e5082831a8d9f99c88274b8b40.jpg"
+    },
+	{
+      "id": 236,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG236",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/4b/45/bd4b45c72d463584da6fd4d4baf309aa.gif"
+    },
+	{
+      "id": 237,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG237",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/f3/8e/18/f38e1822bbfa446f9ccc75a875c454be.gif"
+    },
+	{
+      "id": 238,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG238",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/2c/c0/6d/2cc06dbf173752aed1d56103f0df9f3b.gif"
+    },
+	{
+      "id": 239,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG239",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/9c/5b/f1/9c5bf1d0ccd5f176a6ff5ee316d93e5a.gif"
+    },
+	{
+      "id": 240,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG240",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/00/9b/f7/009bf7e8144818818478f0006419698c.gif"
+    },
+	{
+      "id": 241,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG241",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/19/32/4a/19324a087a3ff2fcd50154d9979231c5.gif"
+    },
+	{
+      "id": 242,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG242",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/d1/31/9c/d1319cd0040dea38a3ff49520a4c7d89.gif"
+    },
+	{
+      "id": 243,
+      "name_category": "Black Dark",
+      "wallpaper_name": "QBG243",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://i.pinimg.com/originals/a9/f7/ab/a9f7ab2e875b924a657ff62c901e64cb.gif"
     }
   ]
 }
